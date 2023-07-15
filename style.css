@@ -1,0 +1,65 @@
+.company{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.learn-more-button
+{
+    background-color: black;
+    color: white;
+    padding: 8px 12px;
+    text-decoration: none;
+}
+.img{
+    height: 300px;
+}
+table {
+    font-family: arial, sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 80%;
+    height: 320px;
+    padding: 50px;
+    margin: 25px;
+    font-size: small;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: black;
+    vertical-align: middle;
+}
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    align-items: center;
+    border-color: inherit;
+}
+tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+}
+tfoot {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+}
+tfoot {
+    display: table-footer-group;
+    vertical-align: middle;
+    border-color: inherit;
+}   
+table,th,td{
+    border: 1px solid black;
+  border-collapse: collapse;
+}
+td {
+    text-align: center;
+  }
+ tr{
+    border: none;
+ }
